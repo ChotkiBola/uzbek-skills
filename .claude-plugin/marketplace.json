@@ -1,0 +1,11 @@
+{
+  "name": "uzbek-skills",
+  "owner": { "name": "Anvar Zarifov" },
+  "plugins": [
+    {
+      "name": "uzbek-skills",
+      "source": "./",
+      "description": "O‘zbek tili uchun skill’lar: humanizer-uz, ozbek-yangi-alifbo, uslubimda-yoz."
+    }
+  ]
+}
