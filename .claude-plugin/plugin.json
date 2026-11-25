@@ -1,6 +1,8 @@
 {
   "name": "uzbek-skills",
-  "version": "1.0.0",
-  "description": "O‘zbek tili uchun Claude skill’lari: AI uslubini tozalash, yangi lotin alifbosiga o‘tkazish va odamning yozish uslubiga moslashish.",
-  "author": { "name": "Anvar Zarifov" }
+  "version": "1.1.0",
+  "description": "O‘zbek tili uchun Claude skill’lari: AI va tarjima hidini tozalash, antiplagiat tekshiruvi, yangi lotin alifbosiga o‘tkazish (kirilldan ham) va odamning yozish uslubiga moslashish.",
+  "author": {
+    "name": "Anvar Zarifov"
+  }
 }
